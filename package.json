@@ -1,0 +1,16 @@
+{
+  "name": "deploy-docker-image",
+  "version": "0.0.0",
+  "description": "Deploy a Docker image to a server, the simple way.",
+  "license": "MIT",
+  "repository": "https://github.com/solarsailer/deploy-docker-image",
+  "author": {
+    "name": "Matthieu Oger",
+    "url": "https://solarsailer.net/"
+  },
+  "scripts": {
+    "start": ""
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
