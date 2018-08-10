@@ -11,6 +11,11 @@
   "scripts": {
     "start": ""
   },
-  "dependencies": {},
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "dotenv": "^6.0.0",
+    "meow": "^5.0.0",
+    "ora": "^3.0.0"
+  },
   "devDependencies": {}
 }
