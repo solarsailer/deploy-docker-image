@@ -303,6 +303,10 @@ restore-cursor@^2.0.0:
     onetime "^2.0.0"
     signal-exit "^3.0.2"
 
+rsyncwrapper@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/rsyncwrapper/-/rsyncwrapper-3.0.1.tgz#018856c2403829e8947715096e69326a4383ba76"
+
 "semver@2 || 3 || 4 || 5":
   version "5.5.0"
   resolved "https://registry.yarnpkg.com/semver/-/semver-5.5.0.tgz#dc4bbc7a6ca9d916dee5d43516f0092b58f7b8ab"
